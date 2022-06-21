@@ -1,0 +1,15 @@
+certifi==2021.10.8
+docopt==0.6.2
+ffmpeg-python==0.2.0
+future==0.18.2
+gpx-converter==2.0.0
+gpxpy==1.5.0
+iso6709==0.1.5
+latlon3==1.0.4
+numpy==1.19.5
+pandas==1.1.5
+pkg_resources==0.0.0
+pyproj==3.0.1
+python-dateutil==2.8.2
+pytz==2021.3
+six==1.16.0
