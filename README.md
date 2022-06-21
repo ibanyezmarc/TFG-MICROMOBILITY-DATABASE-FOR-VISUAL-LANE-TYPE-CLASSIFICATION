@@ -5,8 +5,8 @@ The use and development of micromobility solutions and vehicles in cities is gro
 A camera is attached to a VMP, facing forward in the direction of the ride. The video feed from this camera is used to
 determine the type of lane the VMP is circulating on. For this, we use both frame-to-frame and video-based classifiers.
 
+- model_testing/  
+  Trained models and its scripts to test them.
+  
 - preprocessing/  
   Scripts to preprocess videos: downsample, extract frames, generate index files with GNSS data, etc.
-
-- model_testing/  
-  Trained models and its scripts to test t.
